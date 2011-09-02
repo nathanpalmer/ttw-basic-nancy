@@ -10,7 +10,7 @@ namespace SmarterPayment
     {
         public MainModule()
         {
-            Get["/"] = (args) => View["Index"];
+            Get["/"] = (args) => "Test";
         }
     }
 }
