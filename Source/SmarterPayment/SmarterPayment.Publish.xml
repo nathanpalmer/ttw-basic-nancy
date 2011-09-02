@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\nathan.SC\Desktop\[pub" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="09/02/2011 17:33:38" />
+    <file relUrl="bin/Nancy.dll" publishTime="09/02/2011 16:39:47" />
+    <file relUrl="packages.config" publishTime="09/02/2011 16:39:48" />
+    <file relUrl="bin/SmarterPayment.dll" publishTime="09/02/2011 17:37:07" />
+    <file relUrl="bin/SmarterPayment.pdb" publishTime="09/02/2011 17:37:07" />
+    <file relUrl="bin/Nancy.Hosting.Aspnet.dll" publishTime="09/02/2011 16:39:47" />
+    <file relUrl="Views/Index.sshtml" publishTime="09/02/2011 16:48:18" />
+  </publishProfile>
+</publishData>
